@@ -1,0 +1,14 @@
+.ny-tit-text{ width: 100%; overflow: hidden; border-bottom: 1px dashed #CFCFCF; padding-bottom: 10px; padding-top: 10px;}
+.ny-tit-text p{ width: 100%; text-align: center; font-size: 22px; line-height: 48px; color: #333;}
+.ny-tit-text span{ display: block; width: 100%; text-align: center; font-size: 14px; line-height: 32px; color: #666;}
+
+.Ltext{ width: 98%; margin: 10px auto;
+    font-size:16px;}
+.Ltext p{ width: 98%; margin: 0px auto; font-size: 16px; line-height: 36px; margin-bottom: 10px;}
+.Ltext img{ display: block; max-width: 96%; margin: 10px auto;}
+
+.text-prev{ border-top: 1px solid #cfcfcf; width: 98%; max-width: 1200px; margin: 0px auto; overflow: hidden;  padding-top: 15px; margin-bottom: 15px;}
+.text-prev p{ width: 50%; float: left; color: #666; font-size: 16px;  line-height: 36px; overflow: hidden;}
+.text-prev p a{ color: #333;}
+.text-prev p a:hover{ color: #999;}
+
