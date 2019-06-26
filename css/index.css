@@ -132,7 +132,7 @@ body{
 
 .index_14{width:220px;height:225px;margin-left:28px;float:left;display:inline;text-align:left;position:relative;}
 .index_15{width:220px;height:225px;margin-left:26px;float:left;display:inline;text-align:left;position:relative;}
-.index_16{width:961px;height:225px;clear:both;margin-top:27px;display:inline-block;text-align:left;}
+.index_16{width:961px;height:300px;clear:both;margin-top:27px;display:inline-block;text-align:left;}
 .index_16 .txt{width:100%;height:55px;text-align:center;color:#ffffff;font:16px/55px "\5FAE\8F6F\96C5\9ED1",Arial, Helvetica, sans-serif;position:absolute;bottom:0px;left:0px;background: url(../images/bg-4.png);}
 
 /*.index_19 .txt{
@@ -203,7 +203,34 @@ body{
 .index_20{width:220px;height:225px;margin-left:26px;float:left;display:inline;text-align:left;position:relative;}
 .index_20 .txt{width:220px;height:55px;text-align:center;color:#fff;font:16px/55px "\5FAE\8F6F\96C5\9ED1",Arial, Helvetica, sans-serif;position:absolute;bottom:78px;left:0px;background: url(../images/bg-4.png);}
 
-#case {width:100%;height:695px;clear:both;text-align:center;background: url(../images/bg-1.png);}
+#case {width:100%;height:500px;clear:both;text-align:center;background: url(../images/bg-1.png);}
+.case_1{width:450px;height:300px;float:left;display:inline;text-align:left;position:relative;}
+.case_1 .txt{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    color: #ffffff;
+    font: 16px/55px "\5FAE\8F6F\96C5\9ED1",Arial, Helvetica, sans-serif;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background: url(../images/bg-4.png);
+}
+
+.index_100{width:961px;height:400px;clear:both;display:inline-block;text-align:left;}
+.index_100 .txt{width:220px;height:55px;text-align:center;color:#005b30;font:16px/55px "\5FAE\8F6F\96C5\9ED1",Arial, Helvetica, sans-serif;position:absolute;bottom:0px;left:0px;background: url(../images/bg-4.png);}
+.index_101{width:400px;height:350px;float:left;display:inline;text-align:left;position:relative;}
+.index_101 .txt{
+    width: 100%;
+    height: 55px;
+    text-align: center;
+    color: #ffffff;
+    font: 16px/55px "\5FAE\8F6F\96C5\9ED1",Arial, Helvetica, sans-serif;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background: url(../images/bg-4.png);
+}
 
 #news{width:100%;height:557px;clear:both;text-align:center;}
 .index_22{width:961px;height:557px;display:inline-block;text-align:left;}
